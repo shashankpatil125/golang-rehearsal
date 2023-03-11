@@ -16,3 +16,4 @@ func main() {
 // 1 resousces cleanup
 // 2 close file
 // 3 debugging or testing on database
+// 4 panic recovery!
